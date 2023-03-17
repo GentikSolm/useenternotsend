@@ -13,4 +13,4 @@ services:
       timeout: 10s
       retries: 10
     ports:
-      - "80:3000"
+      - "8585:3000"
